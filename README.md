@@ -30,6 +30,7 @@ Project is in _progess_. Some data are still not able to be scraped from the sou
 ## Code Examples
 Once the project runs, the user is required to enter the 4D website. 
 
+![Screenshot](./img/4dwebsiteSS.png)
 _Enter 4D Website:_ `https://www.singaporepools.com.sg/en/product/pages/4d_results.aspx?sppl=RHJhd051bWJlcj00Njk3 `
 
 After the data is collected, they will be dumped in a _.csv_ format.
