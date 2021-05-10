@@ -4,6 +4,7 @@
 * [Setup](#setup)
 * [Status](#status)
 * [Code Examples](#code-examples)
+* [TODO](#todo)
 
 ## General Infomation 
 This project is used to collect data set from the 4D Website. Data collected are: 
@@ -38,3 +39,8 @@ After the file is dumped, go to the project directory and you can see a _.csv_ f
 
 
 ![Screenshot](./img/dataSs.png)
+
+## TODO
+* Implement a more efficient way to grab and present data in _.csv_ format
+* Use data visualisation software to output data(seaborn, numpy etc)
+
