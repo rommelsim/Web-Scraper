@@ -25,7 +25,7 @@ Project is created with:
 For now, just copy and paste the files into your project. 
 
 ## Status
-Project is in _in progess_. Some data are still not able to be scraped from the source. 
+Project is in _progess_. Some data are still not able to be scraped from the source. 
 
 ## Code Examples
 Once the project runs, the user is required to enter the 4D website. 
