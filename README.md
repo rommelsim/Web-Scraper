@@ -35,3 +35,4 @@ After the data is collected, they will be dumped in a _.csv_ format.
 ![Screenshot](./img/dumpSs.png)
 
 After the file is dumped, go to the project directory and you can see a _.csv_ file written in the following format -> ` Sat, 08 May 2021.csv  `
+![Screenshot](./img/DataSs.png)
