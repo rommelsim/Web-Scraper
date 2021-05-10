@@ -14,8 +14,7 @@ This project is used to collect data set from the 4D Website. Data collected are
 * Starter prize
 * Consolation prize
 
-
-## Technology
+## Technology/Features
 Project is created with:
 * BeautifulSoup(bs4)
 * Python FileWriter
@@ -28,3 +27,6 @@ For now, just copy and paste the files into your project.
 Project is in _in progess_. Some data are still not able to be scraped from the source. 
 
 ## Code Examples
+`
+print("asjhdasd")
+`
